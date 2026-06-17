@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://princenwafor.github.io/sight-haven-eye-clinic/sitemap.xml
